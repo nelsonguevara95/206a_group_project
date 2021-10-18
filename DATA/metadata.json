@@ -5,77 +5,109 @@
         "name": "ACS 2019 5-year"
     },
     "tables": {
-        "B19001": {
-            "title": "Household Income in the Past 12 Months (In 2019 Inflation-adjusted Dollars)",
-            "universe": "Households",
-            "denominator_column_id": "B19001001",
+        "B15003": {
+            "title": "Educational Attainment for the Population 25 Years and Over",
+            "universe": "Population 25 Years and Over",
+            "denominator_column_id": "B15003001",
             "columns": {
-                "B19001001": {
+                "B15003001": {
                     "name": "Total:",
                     "indent": 0
                 },
-                "B19001002": {
-                    "name": "Less than $10,000",
+                "B15003002": {
+                    "name": "No schooling completed",
                     "indent": 1
                 },
-                "B19001003": {
-                    "name": "$10,000 to $14,999",
+                "B15003003": {
+                    "name": "Nursery school",
                     "indent": 1
                 },
-                "B19001004": {
-                    "name": "$15,000 to $19,999",
+                "B15003004": {
+                    "name": "Kindergarten",
                     "indent": 1
                 },
-                "B19001005": {
-                    "name": "$20,000 to $24,999",
+                "B15003005": {
+                    "name": "1st grade",
                     "indent": 1
                 },
-                "B19001006": {
-                    "name": "$25,000 to $29,999",
+                "B15003006": {
+                    "name": "2nd grade",
                     "indent": 1
                 },
-                "B19001007": {
-                    "name": "$30,000 to $34,999",
+                "B15003007": {
+                    "name": "3rd grade",
                     "indent": 1
                 },
-                "B19001008": {
-                    "name": "$35,000 to $39,999",
+                "B15003008": {
+                    "name": "4th grade",
                     "indent": 1
                 },
-                "B19001009": {
-                    "name": "$40,000 to $44,999",
+                "B15003009": {
+                    "name": "5th grade",
                     "indent": 1
                 },
-                "B19001010": {
-                    "name": "$45,000 to $49,999",
+                "B15003010": {
+                    "name": "6th grade",
                     "indent": 1
                 },
-                "B19001011": {
-                    "name": "$50,000 to $59,999",
+                "B15003011": {
+                    "name": "7th grade",
                     "indent": 1
                 },
-                "B19001012": {
-                    "name": "$60,000 to $74,999",
+                "B15003012": {
+                    "name": "8th grade",
                     "indent": 1
                 },
-                "B19001013": {
-                    "name": "$75,000 to $99,999",
+                "B15003013": {
+                    "name": "9th grade",
                     "indent": 1
                 },
-                "B19001014": {
-                    "name": "$100,000 to $124,999",
+                "B15003014": {
+                    "name": "10th grade",
                     "indent": 1
                 },
-                "B19001015": {
-                    "name": "$125,000 to $149,999",
+                "B15003015": {
+                    "name": "11th grade",
                     "indent": 1
                 },
-                "B19001016": {
-                    "name": "$150,000 to $199,999",
+                "B15003016": {
+                    "name": "12th grade, no diploma",
                     "indent": 1
                 },
-                "B19001017": {
-                    "name": "$200,000 or more",
+                "B15003017": {
+                    "name": "Regular high school diploma",
+                    "indent": 1
+                },
+                "B15003018": {
+                    "name": "GED or alternative credential",
+                    "indent": 1
+                },
+                "B15003019": {
+                    "name": "Some college, less than 1 year",
+                    "indent": 1
+                },
+                "B15003020": {
+                    "name": "Some college, 1 or more years, no degree",
+                    "indent": 1
+                },
+                "B15003021": {
+                    "name": "Associate's degree",
+                    "indent": 1
+                },
+                "B15003022": {
+                    "name": "Bachelor's degree",
+                    "indent": 1
+                },
+                "B15003023": {
+                    "name": "Master's degree",
+                    "indent": 1
+                },
+                "B15003024": {
+                    "name": "Professional school degree",
+                    "indent": 1
+                },
+                "B15003025": {
+                    "name": "Doctorate degree",
                     "indent": 1
                 }
             }
