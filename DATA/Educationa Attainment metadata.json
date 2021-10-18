@@ -1,0 +1,116 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "years": "2015-2019",
+        "name": "ACS 2019 5-year"
+    },
+    "tables": {
+        "B15003": {
+            "title": "Educational Attainment for the Population 25 Years and Over",
+            "universe": "Population 25 Years and Over",
+            "denominator_column_id": "B15003001",
+            "columns": {
+                "B15003001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B15003002": {
+                    "name": "No schooling completed",
+                    "indent": 1
+                },
+                "B15003003": {
+                    "name": "Nursery school",
+                    "indent": 1
+                },
+                "B15003004": {
+                    "name": "Kindergarten",
+                    "indent": 1
+                },
+                "B15003005": {
+                    "name": "1st grade",
+                    "indent": 1
+                },
+                "B15003006": {
+                    "name": "2nd grade",
+                    "indent": 1
+                },
+                "B15003007": {
+                    "name": "3rd grade",
+                    "indent": 1
+                },
+                "B15003008": {
+                    "name": "4th grade",
+                    "indent": 1
+                },
+                "B15003009": {
+                    "name": "5th grade",
+                    "indent": 1
+                },
+                "B15003010": {
+                    "name": "6th grade",
+                    "indent": 1
+                },
+                "B15003011": {
+                    "name": "7th grade",
+                    "indent": 1
+                },
+                "B15003012": {
+                    "name": "8th grade",
+                    "indent": 1
+                },
+                "B15003013": {
+                    "name": "9th grade",
+                    "indent": 1
+                },
+                "B15003014": {
+                    "name": "10th grade",
+                    "indent": 1
+                },
+                "B15003015": {
+                    "name": "11th grade",
+                    "indent": 1
+                },
+                "B15003016": {
+                    "name": "12th grade, no diploma",
+                    "indent": 1
+                },
+                "B15003017": {
+                    "name": "Regular high school diploma",
+                    "indent": 1
+                },
+                "B15003018": {
+                    "name": "GED or alternative credential",
+                    "indent": 1
+                },
+                "B15003019": {
+                    "name": "Some college, less than 1 year",
+                    "indent": 1
+                },
+                "B15003020": {
+                    "name": "Some college, 1 or more years, no degree",
+                    "indent": 1
+                },
+                "B15003021": {
+                    "name": "Associate's degree",
+                    "indent": 1
+                },
+                "B15003022": {
+                    "name": "Bachelor's degree",
+                    "indent": 1
+                },
+                "B15003023": {
+                    "name": "Master's degree",
+                    "indent": 1
+                },
+                "B15003024": {
+                    "name": "Professional school degree",
+                    "indent": 1
+                },
+                "B15003025": {
+                    "name": "Doctorate degree",
+                    "indent": 1
+                }
+            }
+        }
+    }
+}
