@@ -1,5 +1,7 @@
 # **Mini Group Assignment**
 
+Luis Cruz and Nelson Guevara
+
 **SoFi Stadium Impacts on Inglewood**: [Initial Proposal](https://github.com/nelsonguevara95/206a_group_project/tree/main/Group%20Assignments)
 
 **Roles:**
