@@ -5,7 +5,7 @@ Historically, there has been an association between the development of sports st
 
 *What are the physical and social changes that the City of Inglewood has experienced after the Development of SoFi stadium?*
 
-## Why it is Important to Us, why it Matters to Others, and What is at Stake
+## Why it is Important to Us, Why it Matters to Others, and What is at Stake
 
   It is important because there is currently another project in the works to develop the Intuit Dome in the upcoming years. The Intuit Dome is planned to be near Sofi Stadium, which opened its doors last year. The impacts of Sofi stadium are still ongoing and will continue to be felt over the next few years; therefore, it is essential to understand just how detrimental the burden (or not) is to community members. It should also matter to others because these development projects open the door for new businesses and new demographics that can afford higher rents and higher costs of living. The current lives and livelihoods of the residents of Inglewood are at stake due to projects like Sofi Stadium. If residents cannot afford the increased rents, small local businesses cannot afford the higher commercial rents, and people are forced to find new places to live and work in - the idea of development would simply be counterintuitive.  
 
